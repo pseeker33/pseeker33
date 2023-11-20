@@ -8,14 +8,12 @@
 
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 
-# ¿Quién soy? 🚀
-Soy un `Data Scientist` con grandes habilidades personales y profesionales. Soy una persona Data-Driven por ello cada accion es basada en datos
+# Sobre Mi 😎
 
-# ¿Que hago? :star:
-Actualmente realizo `proyectos` para poder perfeccionar mis `habilidades tecnicas` y que me permitan seguir creciendo como Data Scientist. Busco soluciones faciles e innovadoras a problemas completos, creo que lo bueno es enemigo de lo perfecto y es algo que se aplica completamente a la programacion.
+Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. Actualmente desarrollo proyectos de Data Analitycs y Machine Learning mientras termino los ultimas etapas del bootcamp de Henry, una plataforma de entrenamiento intensivo en Ciencia de Datos con mas de 700 horas de cursada teorico-practico.
 
-# ¿A dónde me dirijo? :dart:
-Mi objetivo principal es encontrar `informacion oculta` donde cualquiera se pueda dar por vencido. Cada dato es una pieza del rompecabezas.
+
+
 
 # ¿Qué tecnologías uso? :boom:
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
@@ -27,13 +25,9 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
 * FastAPI
 
-
-
-
-# Alguna duda :envelope:
-Contactame: 
-* [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
+# Quieres contactarme? :envelope:
 * Correo: zavalah222@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
 
 
 
@@ -71,7 +65,7 @@ Contactame:
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 -->
-
+<!-- 3
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
@@ -80,6 +74,8 @@ Contactame:
 <br>
 
 ## Proyectos
+-->
+
 
 <!--
 <table>
@@ -144,9 +140,9 @@ Contactame:
 <br>
 -->
 
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!--
 <p align="center">
 <a href="https://github.com/ArisGuimera">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
