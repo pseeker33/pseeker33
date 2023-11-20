@@ -1,8 +1,43 @@
-
+<!-- -->
 <div align="center">
 <h1 align="center">Hola a todos, soy Hoover Zavala 👋</h1>
 </div>
+<p align="center">
+    <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="500" height="320" />    
+</p>
 
+<!--<img src="https://i.imgur.com/weNbhGZ.png">-->
+
+# ¿Quién soy? 🚀
+Soy un `Data Scientist` con grandes habilidades personales y profesionales. Soy una persona Data-Driven por ello cada accion es basada en datos
+
+# ¿Que hago? :star:
+Actualmente realizo `proyectos` para poder perfeccionar mis `habilidades tecnicas` y que me permitan seguir creciendo como Data Scientist. Busco soluciones faciles e innovadoras a problemas completos, creo que lo bueno es enemigo de lo perfecto y es algo que se aplica completamente a la programacion.
+
+# ¿A dónde me dirijo? :dart:
+Mi objetivo principal es encontrar `informacion oculta` donde cualquiera se pueda dar por vencido. Cada dato es una pieza del rompecabezas.
+
+# ¿Qué tecnologías uso? :boom:
+El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
+* Python
+* Librerias de Python: Numpy, Pandas, Matplotlib, Seaborn, entre otras.
+* Power BI
+* Jupyter Notebooks
+* MySQL
+* Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
+* FastAPI
+
+
+
+
+# Alguna duda :envelope:
+Contactame: 
+* [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
+* Correo: zavalah222@gmail.com
+
+
+
+<!--
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height=360
@@ -28,7 +63,7 @@
   •
   <a href="https://twitter.com/OSSInsight">Twitter</a>
 </h3>
-
+-->
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
