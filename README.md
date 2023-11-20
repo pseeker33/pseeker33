@@ -22,7 +22,7 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
 * FastAPI
 
-# Quieres contactarme? :envelope:
+# Datos de Contacto :envelope:
 * Correo: zavalah222@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
 
