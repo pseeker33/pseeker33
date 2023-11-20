@@ -10,7 +10,7 @@
 
 # Sobre Mi 😎
 
-Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. Actualmente desarrollo proyectos de Data Analitycs y Machine Learning mientras termino la última etapa de la carrera de Data Science en SOy Henry, una academia bootcamp de entrenamiento intensivo con mas de 700 horas de cursada teorico-practico.
+Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. Actualmente desarrollo proyectos de Data Analitycs y Machine Learning mientras termino la última etapa de la carrera de Data Science en Henry, una academia bootcamp de entrenamiento intensivo con mas de 700 horas de cursada teorico-practico.
 
 # ¿Qué tecnologías uso? :boom:
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
