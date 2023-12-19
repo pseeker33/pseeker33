@@ -3,7 +3,7 @@
 <h1 align="center">Hola a todos, soy Hoover Zavala 👋</h1>
 </div>
 <p align="center">
-    <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="400" height="256" />    
+    <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="350" height="224" />    
 </p>
 
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
