@@ -3,12 +3,12 @@
 <h1 align="center">Hola a todos, soy Hoover Zavala 👋</h1>
 </div>
 <p align="center">
-    <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="500" height="320" />    
+    <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="400" height="256" />    
 </p>
 
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 
-# Sobre Mi 😎
+# Sobre Mí 
 
 Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. Actualmente desarrollo proyectos de Data Analitycs y Machine Learning mientras termino la última etapa de la carrera de Data Science en Henry, una academia bootcamp de entrenamiento intensivo con mas de 700 horas de cursada teorico-practico.
 
