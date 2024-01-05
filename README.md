@@ -15,11 +15,13 @@ Soy un Data Scientist con una sólida competencia analítica y buenas habilidade
 # ¿Qué tecnologías uso? :boom:
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
 * Python
-* Librerias de Python: Numpy, Pandas, Matplotlib, Seaborn, entre otras.
+* Google Cloud Platform
 * Power BI
-* Jupyter Notebooks
+* Excel
 * MySQL
-* Algoritmos de Machine Learning: Aprendizaje supervisado y no supervisado.
+* Librerias de Python: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, entre otras.
+* Jupyter Notebooks
+* Algoritmos de Machine Learning: Aprendizaje supervisado.
 * FastAPI
 
 # Datos de Contacto :envelope:
