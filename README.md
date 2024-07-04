@@ -10,7 +10,7 @@
 
 # Sobre Mí 
 
-Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. Actualmente desarrollo proyectos de Data Analitycs y Machine Learning mientras termino la última etapa de la carrera de Data Science en Henry, una academia bootcamp de entrenamiento intensivo con mas de 700 horas de cursada teorico-practico.
+Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analitycs y Machine Learning, y actualmente siguo incorporando habilidades de programacion con VBA para Excel y React Javascript para desarrollo web.
 
 # ¿Qué tecnologías uso? :boom:
 El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
@@ -20,9 +20,8 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 * Excel
 * MySQL
 * Librerias de Python: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, entre otras.
-* Jupyter Notebooks
 * Algoritmos de Machine Learning: Aprendizaje supervisado.
-* FastAPI
+* React JS
 
 # Datos de Contacto :envelope:
 * Correo: zavalah222@gmail.com
