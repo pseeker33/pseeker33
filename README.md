@@ -10,7 +10,7 @@
 
 # Sobre Mí 
 
-Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analitycs y Machine Learning, y actualmente sigo incorporando habilidades de programación con VBA para Excel y ReactJS para desarrollo web.
+Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analytics y Machine Learning, y actualmente sigo incorporando habilidades de programación con VBA para Excel y ReactJS para desarrollo web.
 
 # ¿Qué tecnologías uso? :boom:
 Me capacito continuamente en nuevas tecnologías, y estas son las que utilizo actualmente:
