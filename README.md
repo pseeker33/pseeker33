@@ -10,17 +10,17 @@
 
 # Sobre Mí 
 
-Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analitycs y Machine Learning, y actualmente siguo incorporando habilidades de programacion con VBA para Excel y React Javascript para desarrollo web.
+Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analitycs y Machine Learning, y actualmente siguo incorporando habilidades de programacion con VBA para Excel y ReactJS para desarrollo web.
 
 # ¿Qué tecnologías uso? :boom:
-El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 por los que las principales tecnologías que manejo son:
+Me capacito en tecnologías permanentemente, siendo estas con las que actualmente trabajo:
 * Python
 * Google Cloud Platform
 * Power BI
-* Excel
 * MySQL
 * Librerias de Python: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, entre otras.
 * Algoritmos de Machine Learning: Aprendizaje supervisado.
+* Excel
 * React JS
 
 # Datos de Contacto :envelope:
