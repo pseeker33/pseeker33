@@ -10,18 +10,25 @@
 
 # Sobre Mí 
 
-Soy un Data Scientist con una sólida competencia analítica y buenas habilidades para la programacion, el modelado de datos y la síntesis de información. He desarrollado proyectos de Data Analytics y Machine Learning, y actualmente sigo incorporando habilidades de programación con VBA para Excel y ReactJS para desarrollo web.
+Soy un profesional con habilidades en ciencia de datos, blockchain y desarrollo web tradicional y no-code.
+Como analista de datos puedo transformar datos complejos en información valiosa y accionable. 
+Como desarrollador blockchain puedo entregar soluciones descentralizadas con énfasis en la transparencia, interoperabilidad y seguridad. 
+Como desarrollador web puedo crear aplicaciones web modernas, funcionales y escalables.
+Me gusta trabajar en equipo y encarar nuevos desafíos. Te invito a conocerme.
 
 # ¿Qué tecnologías uso? :boom:
 Me capacito continuamente en nuevas tecnologías, y estas son las que utilizo actualmente:
+* Solidity
 * Python
+* React.js
+* Hardhat
+* Bubble.io
 * Google Cloud Platform
 * Power BI
 * MySQL
 * Librerias de Python: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, entre otras.
 * Algoritmos de Machine Learning: Aprendizaje supervisado.
 * Excel
-* React JS
 
 # Datos de Contacto :envelope:
 * Correo: zavalah222@gmail.com
