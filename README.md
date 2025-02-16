@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Read this file in <a href="README.md">Spanish</a> / Lee este archivo en <a href="README.md">español</a>
+    Read this file in <a href="README-es.md">Spanish</a> / Lee este archivo en <a href="README-es.md">español</a>
 </p>
 
 ##  About Me
