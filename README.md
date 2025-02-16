@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" target="_blank" rel="noopener noreferrer">portafolio de proyectos</a></b>
+  📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" onclick="window.open(this.href); return false;">portafolio de proyectos</a></b>
 </p>
 
 # 💻 Sobre Mí
