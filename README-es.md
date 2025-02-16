@@ -14,7 +14,7 @@
   Lee este archivo en <a href="README.md">inglés</a> / Read this in <a href="README.md">English</a>
 </p>
 
-# 💻 Sobre Mí
+## 💻 Sobre Mí
 
 Profesional con habilidades en **ciencia de datos**, **blockchain** y **desarrollo web** (tradicional y no-code).
 
