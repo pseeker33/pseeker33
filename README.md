@@ -64,4 +64,4 @@ I am constantly learning. These are the technologies I currently use:
 ##  Contact Information
 
 - ✉️ Email: [zavalah222@gmail.com](mailto:zavalah222@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
