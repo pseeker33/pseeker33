@@ -6,9 +6,8 @@
     <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="350" height="224" />    
 </p>
 
-<!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 <p align="center">
-  📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" target="_blank">portafolio de proyectos</a></b>
+  📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" target="_blank" rel="noopener noreferrer">portafolio de proyectos</a></b>
 </p>
 
 # 💻 Sobre Mí
