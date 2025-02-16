@@ -45,11 +45,13 @@ Me mantengo en constante aprendizaje. Estas son las tecnologías que utilizo act
 - CSS
 - Javascript
 - React.js
-- Bubble.io (no-code)
 - Node.js
+- PHP
 - MongoDB
 - PHP
 - Django
+- Laravel
+- Bubble.io (no-code)
 - Vercel / Render
 
 ### ⛓️ **Desarrollo Blockchain**
