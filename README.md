@@ -8,32 +8,57 @@
 
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
 
-# Sobre Mí 
 
-Soy un profesional con habilidades en ciencia de datos, blockchain y desarrollo web tradicional y no-code.
-Como analista de datos puedo transformar datos complejos en información valiosa y accionable. 
-Como desarrollador blockchain puedo entregar soluciones descentralizadas con énfasis en la transparencia, interoperabilidad y seguridad. 
-Como desarrollador web puedo crear aplicaciones web modernas, funcionales y escalables.
-Me gusta trabajar en equipo y encarar nuevos desafíos. Te invito a conocerme.
+# 💻 Sobre Mí
 
-# ¿Qué tecnologías uso? :boom:
-Me capacito continuamente en nuevas tecnologías, y estas son las que utilizo actualmente:
-* Solidity
-* Python
-* React.js
-* Hardhat
-* Bubble.io
-* Google Cloud Platform
-* Power BI
-* MySQL
-* Librerias de Python: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, entre otras.
-* Algoritmos de Machine Learning: Aprendizaje supervisado.
-* Excel
+Profesional con habilidades en **ciencia de datos**, **blockchain** y **desarrollo web** (tradicional y no-code).
 
-# Datos de Contacto :envelope:
-* Correo: zavalah222@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
+🔍 **Ciencia de Datos:** Transformo datos complejos en información valiosa y accionable para la toma de decisiones.
 
+🔗 **Blockchain:** Desarrollo soluciones descentralizadas con enfoque en **transparencia**, **interoperabilidad** y **seguridad**.
+
+🌐 **Desarrollo Web:** Creo aplicaciones modernas, funcionales y escalables que convierten ideas en productos reales.
+
+Disfruto trabajar en equipo, enfrentar nuevos desafíos y aprender continuamente. ¡Estoy abierto a colaborar en proyectos innovadores!
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+Me mantengo en constante aprendizaje. Estas son las tecnologías que utilizo actualmente:
+
+### 📊 **Ciencia de Datos**
+- Python (Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn)
+- Algoritmos de Machine Learning Supervisado
+- MySQL
+- Power BI
+- Excel
+- Google Cloud Platform
+
+### 🌐 **Desarrollo Fullstack**
+- HTML
+- CSS
+- Javascript
+- React.js
+- Bubble.io (no-code)
+- Node.js
+- MongoDB
+- PHP
+- Django
+- Vercel / Render
+
+### ⛓️ **Desarrollo Blockchain**
+- Solidity
+- Hardhat
+- Ethers.js
+- Remix IDE
+ 
+---
+
+## 📫 Datos de Contacto
+
+- ✉️ Correo: [zavalah222@gmail.com](mailto:zavalah222@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hoover-zavala/)
 
 
 <!--
