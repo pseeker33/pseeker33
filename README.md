@@ -7,7 +7,9 @@
 </p>
 
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
-
+<p align="center">
+  📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" target="_blank">portafolio de proyectos</a></b>
+</p>
 
 # 💻 Sobre Mí
 
