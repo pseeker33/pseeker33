@@ -1,6 +1,6 @@
 <!-- -->
 <div align="center">
-<h1 align="center">Hola a todos, soy Hoover Zavala 👋</h1>
+<h1 align="center">Hola, soy Hoover Zavala 👋</h1>
 </div>
 <p align="center">
     <img alt="GIF" src="https://github.com/pseeker33/pseeker33/blob/main/code.gif?raw=true" width="350" height="224" />    
