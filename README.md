@@ -10,6 +10,10 @@
   📂 <b>Puedes revisar mi <a href="https://portfolio-pseekers-projects.vercel.app" onclick="window.open(this.href); return false;">portafolio de proyectos</a></b> (Ctrl + click para abrir en una nueva pestaña)
 </p>
 
+<p align="center">
+  Lee este archivo en <a href="README.md">inglés</a> / Read this in <a href="README.md">English</a>
+</p>
+
 # 💻 Sobre Mí
 
 Profesional con habilidades en **ciencia de datos**, **blockchain** y **desarrollo web** (tradicional y no-code).
